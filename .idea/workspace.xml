@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7f0831e-1d7e-4f80-a4fe-bbf0f246234f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/It_Jobs_Watch_Data_Package-master/Vagrantfile" beforeDir="false" afterPath="$PROJECT_DIR$/It_Jobs_Watch_Data_Package-master/Vagrantfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/It_Jobs_Watch_Data_Package-master" />
+  </component>
+  <component name="ProjectId" id="1aG8YQQORCcHPgyyUA3cOOfYOGg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/It_Jobs_Watch_Data_Package-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/It_Jobs_Watch_Data_Package-master/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7f0831e-1d7e-4f80-a4fe-bbf0f246234f" name="Default Changelist" comment="" />
+      <created>1586350617110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586350617110</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586356137946">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.805@0.23.1440.805" timestamp="1586356137946" />
+    <state x="263" y="28" key="CommitChangelistDialog2" timestamp="1586356123135">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="263" y="28" key="CommitChangelistDialog2/0.23.1440.805@0.23.1440.805" timestamp="1586356123135" />
+    <state width="1419" height="311" key="GridCell.Tab.0.bottom" timestamp="1586364214273">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1419" height="311" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1586364214273" />
+    <state width="1419" height="312" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1586358159550" />
+    <state width="1419" height="312" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1586359450487" />
+    <state width="1419" height="311" key="GridCell.Tab.0.center" timestamp="1586364214272">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1419" height="311" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1586364214272" />
+    <state width="1419" height="312" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1586358159549" />
+    <state width="1419" height="312" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1586359450486" />
+    <state width="1419" height="311" key="GridCell.Tab.0.left" timestamp="1586364214271">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1419" height="311" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1586364214271" />
+    <state width="1419" height="312" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1586358159548" />
+    <state width="1419" height="312" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1586359450485" />
+    <state width="1419" height="311" key="GridCell.Tab.0.right" timestamp="1586364214273">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1419" height="311" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1586364214273" />
+    <state width="1419" height="312" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1586358159550" />
+    <state width="1419" height="312" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1586359450486" />
+    <state x="214" y="98" key="SettingsEditor" timestamp="1586354516669">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586353320985" />
+    <state x="214" y="98" key="SettingsEditor/0.23.1440.807@0.23.1440.807" timestamp="1586354516669" />
+    <state x="229" y="103" key="SettingsEditor/0.23.1440.810@0.23.1440.810" timestamp="1586353400388" />
+    <state x="399" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1586363798949">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="399" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1586363798949" />
+    <state x="399" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1586351070119" />
+    <state x="399" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1586355177534" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/It_Jobs_Watch_Data_Package-master/main.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
