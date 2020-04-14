@@ -77,12 +77,12 @@ end
 #   mode '0777'
 # end
 
-# directory '/home/vagrant/Downloads' do
-#   owner 'root'
-#   group 'root'
-#   action :create
-#   mode '0777'
-# end
+directory '/home/vagrant/Downloads' do
+  owner 'root'
+  group 'root'
+  action :create
+  mode '0777'
+end
 
 directory '/home/ubuntu/Downloads' do
   owner 'root'
